@@ -1,0 +1,15 @@
+{
+  "BlockApi": "blocks",
+  "MessageApi": "messages",
+  "TemplateApi": "templates",
+  "CustomerApi": "customers",
+  "AccountApi": "accounts",
+  "TagApi": "tags",
+  "BizSyncApi": "bizSync",
+  "FlowApi": "flows",
+  "CatalogApi": "catalogs",
+  "CallingApi": "calling",
+  "GroupApi": "groups",
+  "WelcomeMessageApi": "welcomeMessages",
+  "AnalyticsApi": "analytics"
+}
